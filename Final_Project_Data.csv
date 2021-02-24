@@ -1,0 +1,129 @@
+﻿drug,class,target,bacterium,gram,strain,mutation,technique,MIC,medium,selcoef,fitness
+myxopyronin,alpha-pyrone,"rpoB, rpoC",S. aureus,positive,ATCC 12600,rpoB V1080I,1,20,MH,-0.115415603,0.864
+myxopyronin,alpha-pyrone,"rpoB, rpoC",S. aureus,positive,ATCC 12600,rpoB V1080L,1,20,MH,-0.173123405,0.796
+myxopyronin,alpha-pyrone,"rpoB, rpoC",S. aureus,positive,ATCC 12600,rpoB E1084K,1,100,MH,-0.115415603,0.864
+myxopyronin,alpha-pyrone,"rpoB, rpoC",S. aureus,positive,ATCC 12600,rpoB D1101E,1,20,MH,-0.216404256,0.745
+myxopyronin,alpha-pyrone,"rpoB, rpoC",S. aureus,positive,ATCC 12600,rpoB S1127L,1,100,MH,-0.144269504,0.83
+myxopyronin,alpha-pyrone,"rpoB, rpoC",S. aureus,positive,ATCC 12600,rpoB S1127P,1,100,MH,-0.057707802,0.932
+myxopyronin,alpha-pyrone,"rpoB, rpoC",S. aureus,positive,ATCC 12600,rpoC K334N,1,100,MH,-0.086561702,0.898
+myxopyronin,alpha-pyrone,"rpoB, rpoC",S. aureus,positive,ATCC 12600,rpoC T925K,1,20,MH,-0.100988653,0.881
+myxopyronin,alpha-pyrone,"rpoB, rpoC",S. aureus,positive,ATCC 12600,rpoC T925R,1,100,MH,-0.072134752,0.915
+myxopyronin,alpha-pyrone,"rpoB, rpoC",S. aureus,positive,ATCC 12600,rpoC G1172C,1,20,MH,-0.187550355,0.779
+myxopyronin,alpha-pyrone,"rpoB, rpoC",S. aureus,positive,ATCC 12600,rpoC G1172D,1,20,MH,-0.201977306,0.762
+streptomycin,aminoglycoside,16sRNA,M. smegmatis,positive,SMR5,16S rRNA C522T,1,250,BHI medium,-0.134891986,0.84105
+streptomycin,aminoglycoside,16sRNA,M. smegmatis,positive,SMR5,16S rRNA A523C,1,125,BHI medium,-0.088725745,0.89545
+streptomycin,aminoglycoside,16sRNA,M. smegmatis,positive,SMR5,16S rRNA G524C,1,500,BHI medium,-0.566257804,0.33275
+streptomycin,aminoglycoside,16sRNA,M. smegmatis,positive,SMR5,16S rRNA C526T ,1,125,BHI medium,-0.201255958,0.76285
+amikacin,aminoglycoside,30SrRNA,M. smegmatis,positive,SMR5,16S rRNA A1408G,1,833.333,BHI medium,-0.023804468,0.97195
+streptomycin,aminoglycoside,16sRNA,M. smegmatis,positive,SMR6,16S rRNA A523C,5,125,BHI medium,-0.07862688,0.90735
+streptomycin,aminoglycoside,16sRNA,M. smegmatis,positive,SMR7,16S rRNA G524C,5,500,BHI medium,-0.600161137,0.2928
+streptomycin,aminoglycoside,16sRNA,M. smegmatis,positive,SMR8,16S rRNA C526T,5,125,BHI medium,-0.113972908,0.8657
+amikacin,aminoglycoside,30SrRNA,M. smegmatis,positive,SMR9,16S rRNA A1408G,5,833.333,BHI medium,-0.042559504,0.94985
+novobiocin,coumarin,type II topoisomerase enzymes (DNA gyrase and topo IV),S. aureus,positive,SH1000,gryB G85S,1,62.5,ISB,-0.04,0.96
+novobiocin,coumarin,type II topoisomerase enzymes (DNA gyrase and topo IV),S. aureus,positive,SH1000,gyrB R144S,1,62.5,ISB,-0.05,0.95
+coumermycin,coumarin,type II topoisomerase enzymes (DNA gyrase and topo IV),S. aureus,positive,SH1000,gyrB T173I,1,62.5,ISB,-0.04,0.96
+trimethoprim,dihydrofolate reductase inhibitor,Dihydrofolate reductase (DHFR),S. aureus,positive,SH1000,DHFR L41F,1,4,ISB,0.028853901,1.034
+trimethoprim,dihydrofolate reductase inhibitor,Dihydrofolate reductase (DHFR),S. aureus,positive,SH1000,DHFR F99S,1,4,ISB,0.043280851,1.051
+trimethoprim,dihydrofolate reductase inhibitor,Dihydrofolate reductase (DHFR),S. aureus,positive,SH1000,DHFR H150R,1,8,ISB,-0.01442695,0.983
+trimethoprim,dihydrofolate reductase inhibitor,Dihydrofolate reductase (DHFR),S. aureus,positive,SH1000,DHFR F99Y,1,16,ISB,0.01442695,1.017
+fusidic acid,fusidane,"EF-G, ribosome",S. aureus,positive,RN4220,EF-G A67T,4,1,yeast extract peptone,-0.031739651,0.962599576
+fusidic acid,fusidane,"EF-G, ribosome",S. aureus,positive,RN4220,EF-G P406L,4,250,yeast extract peptone,-0.443538564,0.477356241
+fusidic acid,fusidane,"EF-G, ribosome",S. aureus,positive,RN4220,EF-G S416F,4,1,yeast extract peptone,-0.047361381,0.944191707
+fusidic acid,fusidane,"EF-G, ribosome",S. aureus,positive,RN4220,EF-G H457Y,4,2000,yeast extract peptone,-0.308353681,0.636651376
+clarithromycin,macrolide,23S rRNA,M. smegmatis,positive,SMR5,23S rRNA A2058G,1,2133.3333,BHI medium,-0.028853901,0.966
+clarithromycin,macrolide,23S rRNA,M. smegmatis,positive,SMR5,23S rRNA A2059G,1,2133.3333,BHI medium,-0.028132553,0.96685
+erythromycin,macrolide,23S rRNA,C. jejuni,negative,NCTC 11168,23S A2074C,1,512,MH,-0.17,0.83
+erythromycin,macrolide,23S rRNA,C. jejuni,negative,81-176,23S A2075G,2,256,MH,-0.18,0.82
+erythromycin,macrolide,23S rRNA,C. jejuni,negative,81-176,23S A2075G,2,256,MH,-0.2,0.8
+erythromycin,macrolide,23S rRNA,C. jejuni,negative,81-176,23S A2075G,2,256,MH,-0.16,0.84
+erythromycin,macrolide,23S rRNA,C. jejuni,negative,81-176,23S A2075G,2,256,MH,-0.155,0.845
+norfloxacin,quinolone,type II topoisomerase enzymes (DNA gyrase and topo IV),S. aureus,positive,SH1000,grlA S80F,1,8,ISB,-0.02,0.98
+norfloxacin,quinolone,type II topoisomerase enzymes (DNA gyrase and topo IV),S. aureus,positive,SH1000,grlA S80Y,1,8,ISB,-0.04,0.96
+norfloxacin,quinolone,type II topoisomerase enzymes (DNA gyrase and topo IV),S. aureus,positive,SH1000,grlA E84K,1,8,ISB,0.02,1.02
+norfloxacin,quinolone,type II topoisomerase enzymes (DNA gyrase and topo IV),S. aureus,positive,SH1000,grlA A116E,1,8,ISB,0.02,1.02
+ciprofloxacin,quinolone,quinolone-resistance determining region (QRDR) topoIV genes and DNA gyr,S. pneumoniae,positive,R6,parC S79F,2,2,Todd-Hewitt yeast broth,-0.083,0.917
+ciprofloxacin,quinolone,quinolone-resistance determining region (QRDR) topoIV genes and DNA gyr,S. pneumoniae,positive,R6,parC S79Y,2,2,Todd-Hewitt yeast broth,0.004,1.004
+ciprofloxacin,quinolone,quinolone-resistance determining region (QRDR) topoIV genes and DNA gyr,S. pneumoniae,positive,R6,parC D83Y,2,3,Todd-Hewitt yeast broth,0.07,1.07
+ciprofloxacin,quinolone,quinolone-resistance determining region (QRDR) topoIV genes and DNA gyr,S. pneumoniae,positive,R6,parE D435N,2,2,Todd-Hewitt yeast broth,-0.439,0.561
+ciprofloxacin,quinolone,quinolone-resistance determining region (QRDR) topoIV genes and DNA gyr,S. pneumoniae,positive,R6,gyrA S81Y,2,2,Todd-Hewitt yeast broth,0.01,1.01
+ciprofloxacin,quinolone,quinolone-resistance determining region (QRDR) topoIV genes and DNA gyr,S. pneumoniae,positive,R6,gyrA E85K,2,1,Todd-Hewitt yeast broth,-0.076,0.924
+ciprofloxacin,quinolone,quinolone-resistance determining region (QRDR) topoIV genes and DNA gyr,S. pneumoniae,positive,R6,gyrA S81F,2,1,Todd-Hewitt yeast broth,-0.099,0.901
+norfloxacin,quinolone,type II topoisomerase enzymes (DNA gyrase and topo IV),E. coli,negative,UTI isolate Nu14,gyrA S83A,1,2.659574468,urine,0.001442695,1.0017
+norfloxacin,quinolone,type II topoisomerase enzymes (DNA gyrase and topo IV),E. coli,negative,UTI isolate Nu14,gyrA D87Y,1,5.319148936,urine,-0.007213475,0.9915
+norfloxacin,quinolone,type II topoisomerase enzymes (DNA gyrase and topo IV),E. coli,negative,UTI isolate Nu15,gyrA D87G,1,10.63829787,urine,-0.001442695,0.9983
+norfloxacin,quinolone,type II topoisomerase enzymes (DNA gyrase and topo IV),E. coli,negative,UTI isolate Nu18,gyrB S464F,1,5.319148936,urine,0.033181986,1.0391
+norfloxacin,quinolone,type II topoisomerase enzymes (DNA gyrase and topo IV),E. coli,negative,UTI isolate Nu20,gyrB delta9nt,1,2.659574468,urine,0.012984255,1.0153
+norfloxacin,quinolone,type II topoisomerase enzymes (DNA gyrase and topo IV),E. coli,negative,UTI isolate Nu22,marR R77L,1,5.319148936,urine,-0.018755036,0.9779
+norfloxacin,quinolone,type II topoisomerase enzymes (DNA gyrase and topo IV),E. coli,negative,UTI isolate Nu14,marR R94H,1,4.042553191,urine,-0.004328085,0.9949
+norfloxacin,quinolone,type II topoisomerase enzymes (DNA gyrase and topo IV),E. coli,negative,UTI isolate Nu14,marR delta13 nt,1,2.021276596,urine,0.004328085,1.0051
+ciprofloxacin,quinolone,"topoIV, DNA gyr",E. coli,negative,MG1655,gyrA S83L,1,23.75,LB,0.01,1.01
+ciprofloxacin,quinolone,"topoIV, DNA gyr",E. coli,negative,MG1655,gyrA D87N,1,15.625,LB,-0.01,0.99
+ciprofloxacin,quinolone,"topoIV, DNA gyr",E. coli,negative,MG1655,parC S80I,1,1,LB,-0.01,0.99
+ciprofloxacin,quinolone,"topoIV, DNA gyr",E. coli,negative,MG1655,marR delta,1,2,LB,-0.17,0.83
+ciprofloxacin,quinolone,"topoIV, DNA gyr",E. coli,negative,MG1655,acrR delta,1,2.9375,LB,-0.09,0.91
+ciprofloxacin,quinolone,"topoIV, DNA gyr",S. pneumoniae,positive,clinical strain,parC S79Y,1,8,heart infusion broth,-0.15,1.15
+rifampicin,rifamycin,rpoB (beta-subunit of RNA pol),E. coli,negative,REL1206,rpoB I572F,4,320,DM25,0.35490298,1.4182
+rifampicin,rifamycin,rpoB (beta-subunit of RNA pol),E. coli,negative,REL1206,rpoB I572L,4,40,DM25,0.304408654,1.3587
+rifampicin,rifamycin,rpoB (beta-subunit of RNA pol),E. coli,negative,REL1206,rpoB 1572N,4,10,DM25,0.262570497,1.3094
+rifampicin,rifamycin,rpoB (beta-subunit of RNA pol),E. coli,negative,REL606,rpoB I572F,4,320,DM25,0.409725392,1.4828
+rifampicin,rifamycin,rpoB (beta-subunit of RNA pol),E. coli,negative,REL606,rpoB I572L,4,40,DM25,0.435693902,1.5134
+rifampicin,rifamycin,rpoB (beta-subunit of RNA pol),E. coli,negative,REL606,rpoB 1572N,4,10,DM25,0.428480427,1.5049
+rifampicin,rifamycin,rpoB (beta-subunit of RNA pol),E. coli,negative,K12,rpoB I572F,4,320,DM25,-0.132150866,0.84428
+rifampicin,rifamycin,rpoB (beta-subunit of RNA pol),E. coli,negative,K12,rpoB I572L,4,40,DM25,-0.038952766,0.9541
+rifampicin,rifamycin,rpoB (beta-subunit of RNA pol),E. faecium,positive,"4 independent isolates pig intestine (38-15, 40-4, 40-8, 343-3)",rpoB H489Q,1,32,modified peptone water,-0.016,0.984
+rifampicin,rifamycin,rpoB (beta-subunit of RNA pol),E. faecium,positive,"4 independent isolates pig intestine (38-15, 40-4, 40-8, 343-3)",rpoB H489Y,1,64,modified peptone water,0.22,1.22
+rifampicin,rifamycin,rpoB (beta-subunit of RNA pol),E. faecium,positive,"4 independent isolates pig intestine (38-15, 40-4, 40-8, 343-3)",rpoB R492H,1,256,modified peptone water,-0.095,0.905
+rifampicin,rifamycin,rpoB (beta-subunit of RNA pol),E. faecium,positive,"5 independent isolates pig intestine (38-15, 40-4, 40-8, 343-3)",rpoB H489Y,1,64,modified peptone water,-0.027,0.973
+rifampicin,rifamycin,rpoB (beta-subunit of RNA pol),E. faecium,positive,"6 independent isolates pig intestine (38-15, 40-4, 40-8, 343-3)",rpoB R492H,1,256,modified peptone water,-0.095,0.905
+rifampicin,rifamycin,rpoB (beta-subunit of RNA pol),E. faecium,positive,"7 independent isolates pig intestine (38-15, 40-4, 40-8, 343-3)",rpoB H489Y,1,96,modified peptone water,-0.042,0.958
+rifampicin,rifamycin,rpoB (beta-subunit of RNA pol),E. faecium,positive,"8 independent isolates pig intestine (38-15, 40-4, 40-8, 343-3)",rpoB H489Y,1,32,modified peptone water,-0.026,0.974
+rifampicin,rifamycin,rpoB (beta-subunit of RNA pol),E. faecium,positive,"9 independent isolates pig intestine (38-15, 40-4, 40-8, 343-3)",rpoB H489Y,1,32,modified peptone water,-0.032,0.968
+rifampicin,rifamycin,rpoB (beta-subunit of RNA pol),E. faecium,positive,"4 independent isolates pig intestine (38-15, 40-4, 40-8, 343-3)",rpoB Q480H,1,64,modified peptone water,-0.029,0.971
+rifampicin,rifamycin,rpoB (beta-subunit of RNA pol),M. tuberculosis,positive,Harlingen,rpoB S531W ,1,128,7H9 medium,-0.29,0.71
+rifampicin,rifamycin,rpoB (beta-subunit of RNA pol),M. tuberculosis,positive,Harlingen,rpoB H526Y,1,128,7H9 medium,-0.14,0.86
+rifampicin,rifamycin,rpoB (beta-subunit of RNA pol),M. tuberculosis,positive,Harlingen,rpoB S522L,1,64,7H9 medium,-0.05,0.95
+rifampicin,rifamycin,rpoB (beta-subunit of RNA pol),E. coli,negative,K12 MG1655,rpoB I572L,1,16,Davis minimal media,-0.136,0.864
+rifampicin,rifamycin,rpoB (beta-subunit of RNA pol),E. coli,negative,K12 MG1655,rpoB L511Q,1,4,Davis minimal media,-0.135,0.865
+rifampicin,rifamycin,rpoB (beta-subunit of RNA pol),E. coli,negative,K12 MG1655,rpoB H526L,1,16,Davis minimal media,-0.056,0.944
+rifampicin,rifamycin,rpoB (beta-subunit of RNA pol),E. coli,negative,K12 MG1656,NA,1,16,Davis minimal media,0.046,1.046
+rifampicin,rifamycin,rpoB (beta-subunit of RNA pol),E. coli,negative,K12 MG1655,rpoB Q148L,1,32,Davis minimal media,-0.037,0.963
+rifampicin,rifamycin,rpoB (beta-subunit of RNA pol),E. coli,negative,K12 MG1655,rpoB H526Y,1,32,Davis minimal media,-0.087,0.913
+rifampicin,rifamycin,rpoB (beta-subunit of RNA pol),E. coli,negative,K12 MG1655,rpoB Q418L,1,8,Davis minimal media,-0.104,0.896
+rifampicin,rifamycin,rpoB (beta-subunit of RNA pol),E. coli,negative,K12 MG1655,rpoB P564L,1,320,Davis minimal media,-0.165,0.835
+rifampicin,rifamycin,rpoB (beta-subunit of RNA pol),E. coli,negative,K12 MG1655,rpoB D516G,1,16,Davis minimal media,0.03,1.03
+rifampicin,rifamycin,rpoB (beta-subunit of RNA pol),S. aureus,positive,various clinical isolates,rpoB H481N,3,500,LB,0,1
+rifampicin,rifamycin,rpoB (beta-subunit of RNA pol),S. aureus,positive,various clinical isolates,rpoB N471Y,3,500,LB,-0.12,0.88
+rifampicin,rifamycin,rpoB (beta-subunit of RNA pol),S. aureus,positive,various clinical isolates,rpoB N471Q,3,62.5,LB,-0.04,0.96
+rifampicin,rifamycin,rpoB (beta-subunit of RNA pol),S. aureus,positive,various clinical isolates,rpoB N471G,3,62.5,LB,-0.13,0.87
+rifampicin,rifamycin,rpoB (beta-subunit of RNA pol),S. aureus,positive,various clinical isolates,rpoB I527F,3,500,LB,-0.07,0.93
+rifampicin,rifamycin,rpoB (beta-subunit of RNA pol),S. aureus,positive,various clinical isolates,rpoB S464P,3,500,LB,-0.07,0.93
+rifampicin,rifamycin,rpoB (beta-subunit of RNA pol),S. aureus,positive,various clinical isolates,rpoB N474K,3,1000,LB,-0.4,0.6
+rifampicin,rifamycin,rpoB (beta-subunit of RNA pol),S. aureus,positive,various clinical isolates,rpoB A477V,3,125,LB,-0.12,0.88
+rifampicin,rifamycin,rpoB (beta-subunit of RNA pol),S. aureus,positive,various clinical isolates,rpoB A477N,3,32000,LB,-0.09,0.91
+rifampicin,rifamycin,rpoB (beta-subunit of RNA pol),S. aureus,positive,various clinical isolates,rpoB R484H,3,32000,LB,-0.25,0.75
+rifampicin,rifamycin,rpoB (beta-subunit of RNA pol),S. aureus,positive,various clinical isolates,rpoB S486L,3,64000,LB,-0.14,0.86
+rifampicin,rifamycin,rpoB (beta-subunit of RNA pol),S. aureus,positive,various clinical isolates,rpoB Q468R,3,64000,LB,-0.2,0.8
+rifampicin,rifamycin,rpoB (beta-subunit of RNA pol),S. aureus,positive,various clinical isolates,rpoB Q468L,3,64000,LB,-0.05,0.95
+rifampicin,rifamycin,rpoB (beta-subunit of RNA pol),S. aureus,positive,various clinical isolates,rpoB H481Y,3,64000,LB,-0.07,0.93
+rifampicin,rifamycin,rpoB (beta-subunit of RNA pol),S. aureus,positive,8325-4,rpoB D471E,4,15.625,LB,-0.086561702,0.898
+rifampicin,rifamycin,rpoB (beta-subunit of RNA pol),S. aureus,positive,8325-4,rpoB Q137L,4,15.625,LB,-0.187550355,0.779
+rifampicin,rifamycin,rpoB (beta-subunit of RNA pol),S. aureus,positive,8325-4,rpoB Q137L,4,31.25,LB,-0.216404256,0.745
+rifampicin,rifamycin,rpoB (beta-subunit of RNA pol),S. aureus,positive,8325-4,rpoB L466S,4,31.25,LB,-0.057707802,0.932
+rifampicin,rifamycin,rpoB (beta-subunit of RNA pol),S. aureus,positive,8325-4,rpoB D471E,4,31.25,LB,-0.302965959,0.643
+rifampicin,rifamycin,rpoB (beta-subunit of RNA pol),S. aureus,positive,8325-4,rpoB Q137L,4,31.25,LB,-0.245258157,0.711
+rifampicin,rifamycin,rpoB (beta-subunit of RNA pol),S. aureus,positive,8325-4,rpoB H481N,4,250,LB,-0.288539008,0.66
+rifampicin,rifamycin,rpoB (beta-subunit of RNA pol),S. aureus,positive,8325-4,rpoB A477V,4,250,LB,-0.605931917,0.286
+rifampicin,rifamycin,rpoB (beta-subunit of RNA pol),S. aureus,positive,8325-4,rpoB A477V,4,250,LB,-0.605931917,0.286
+rifampicin,rifamycin,rpoB (beta-subunit of RNA pol),S. aureus,positive,8325-4,rpoB deltaL485,4,500,LB,-0.274112058,0.677
+rifampicin,rifamycin,rpoB (beta-subunit of RNA pol),S. aureus,positive,8325-4,rpoB D471Y,4,500,LB,-0.230831207,0.728
+rifampicin,rifamycin,rpoB (beta-subunit of RNA pol),S. aureus,positive,8325-4,rpoB D471Y,4,1000,LB,-0.375100711,0.558
+rifampicin,rifamycin,rpoB (beta-subunit of RNA pol),S. aureus,positive,8325-4,rpoB I527F,4,2000,LB,-0.01442695,0.983
+rifampicin,rifamycin,rpoB (beta-subunit of RNA pol),S. aureus,positive,8325-4,rpoB S464P,4,2000,LB,-0.418381562,0.507
+rifampicin,rifamycin,rpoB (beta-subunit of RNA pol),S. aureus,positive,8325-4,rpoB L488S,4,16000,LB,-0.01442695,0.983
+rifampicin,rifamycin,rpoB (beta-subunit of RNA pol),S. aureus,positive,8325-4,rpoB P519L,4,32000,LB,-0.317392909,0.626
+rifampicin,rifamycin,rpoB (beta-subunit of RNA pol),S. aureus,positive,8325-4,rpoB A477D,4,64000,LB,-0.562651066,0.337
+rifampicin,rifamycin,rpoB (beta-subunit of RNA pol),S. aureus,positive,8325-4,rpoB S486L,4,128000,LB,-0.519370215,0.388
+rifampicin,rifamycin,rpoB (beta-subunit of RNA pol),S. aureus,positive,8325-4,rpoB S486L,4,128000,LB,-0.36067376,0.575
+rifampicin,rifamycin,rpoB (beta-subunit of RNA pol),S. aureus,positive,8325-4,rpoB H481D,4,128000,LB,-0.591504967,0.303
+rifampicin,rifamycin,rpoB (beta-subunit of RNA pol),S. aureus,positive,8325-4,rpoB H481Y,4,128000,LB,-0.72134752,0.15
+rifampicin,rifamycin,rpoB (beta-subunit of RNA pol),S. aureus,positive,8325-4,rpoB H481Y,4,128000,LB,-0.735774471,0.133
