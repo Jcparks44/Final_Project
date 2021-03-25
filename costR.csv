@@ -1,0 +1,366 @@
+drug,class,target,bacterium,gram,strain,mutation,technique,MIC,medium,selcoef,fitness,SE,Author code,,,,,,
+myxopyronin,alpha-pyrone,"rpoB, rpoC",S. aureus,positive,ATCC 12600,rpoB V1080I,1,20,MH,-0.115415603,0.864,0.034,18,,,,,0.864,20
+myxopyronin,alpha-pyrone,"rpoB, rpoC",S. aureus,positive,ATCC 12600,rpoB V1080L,1,20,MH,-0.173123405,0.796,0.051,18,,,,,0.796,20
+myxopyronin,alpha-pyrone,"rpoB, rpoC",S. aureus,positive,ATCC 12600,rpoB E1084K,1,100,MH,-0.115415603,0.864,0.068,18,,,,,0.864,100
+myxopyronin,alpha-pyrone,"rpoB, rpoC",S. aureus,positive,ATCC 12600,rpoB D1101E,1,20,MH,-0.216404256,0.745,0.017,18,,,,,0.745,20
+myxopyronin,alpha-pyrone,"rpoB, rpoC",S. aureus,positive,ATCC 12600,rpoB S1127L,1,100,MH,-0.144269504,0.83,0.051,18,,,,,0.83,100
+myxopyronin,alpha-pyrone,"rpoB, rpoC",S. aureus,positive,ATCC 12600,rpoB S1127P,1,100,MH,-0.057707802,0.932,0.034,18,,,,,0.932,100
+myxopyronin,alpha-pyrone,"rpoB, rpoC",S. aureus,positive,ATCC 12600,rpoC K334N,1,100,MH,-0.086561702,0.898,0.034,18,,,,,0.898,100
+myxopyronin,alpha-pyrone,"rpoB, rpoC",S. aureus,positive,ATCC 12600,rpoC T925K,1,20,MH,-0.100988653,0.881,0.017,18,,,,,0.881,20
+myxopyronin,alpha-pyrone,"rpoB, rpoC",S. aureus,positive,ATCC 12600,rpoC T925R,1,100,MH,-0.072134752,0.915,0.034,18,,,,,0.915,100
+myxopyronin,alpha-pyrone,"rpoB, rpoC",S. aureus,positive,ATCC 12600,rpoC G1172C,1,20,MH,-0.187550355,0.779,0.017,18,,,,,0.779,20
+myxopyronin,alpha-pyrone,"rpoB, rpoC",S. aureus,positive,ATCC 12600,rpoC G1172D,1,20,MH,-0.201977306,0.762,0.017,18,,,,,0.762,20
+streptomycin,aminoglycoside,16sRNA,E. coli,negative,K12 MG1669,rpsL K43R,1,NA,LB,-0.005,0.995,0.007,8,,,,,0.995,NA
+streptomycin,aminoglycoside,16sRNA,E. coli,negative,K12 MG1670,rpsL K43T,1,NA,LB,-0.134,0.866,0.01,8,,,,,0.866,NA
+streptomycin,aminoglycoside,16sRNA,E. coli,negative,K12 MG1671,rpsL K88E,1,NA,LB,-0.275,0.725,0.014,8,,,,,0.725,NA
+streptomycin,aminoglycoside,16sRNA,E. coli,negative,K12 MG1672,rpsL K43N,1,NA,LB,-0.18,0.82,0.0095,8,,,,,0.82,NA
+streptomycin,aminoglycoside,16sRNA,E. coli,negative,K12 MG1673,rpsL K88R,1,NA,LB,-0.061,0.939,0.006,8,,,,,0.939,NA
+streptomycin,aminoglycoside,16sRNA,M. smegmatis,positive,SMR5,16S rRNA C522T,1,250,BHI medium,-0.134891986,0.84105,0.022984694,10,,,,,0.84105,250
+streptomycin,aminoglycoside,16sRNA,M. smegmatis,positive,SMR5,16S rRNA A523C,1,125,BHI medium,-0.088725745,0.89545,0.027321429,10,,,,,0.89545,125
+streptomycin,aminoglycoside,16sRNA,M. smegmatis,positive,SMR5,16S rRNA G524C,1,500,BHI medium,-0.566257804,0.33275,0.140943878,10,,,,,0.33275,500
+streptomycin,aminoglycoside,16sRNA,M. smegmatis,positive,SMR5,16S rRNA C526T ,1,125,BHI medium,-0.201255958,0.76285,0.077627551,10,,,,,0.76285,125
+amikacin,aminoglycoside,30SrRNA,M. smegmatis,positive,SMR5,16S rRNA A1408G,1,833.333,BHI medium,-0.023804468,0.97195,0.049872449,10,,,,,0.97195,833.333
+streptomycin,aminoglycoside,16sRNA,M. smegmatis,positive,SMR6,16S rRNA A523C,5,125,BHI medium,-0.07862688,0.90735,0.027321429,10,,,,,0.90735,125
+streptomycin,aminoglycoside,16sRNA,M. smegmatis,positive,SMR7,16S rRNA G524C,5,500,BHI medium,-0.600161137,0.2928,0.060714286,10,,,,,0.2928,500
+streptomycin,aminoglycoside,16sRNA,M. smegmatis,positive,SMR8,16S rRNA C526T,5,125,BHI medium,-0.113972908,0.8657,0.016479592,10,,,,,0.8657,125
+amikacin,aminoglycoside,30SrRNA,M. smegmatis,positive,SMR9,16S rRNA A1408G,5,833.333,BHI medium,-0.042559504,0.94985,0.040331633,10,,,,,0.94985,833.333
+streptomycin,aminoglycoside,16sRNA,E. coli,negative,"CAB281, STR1, STR2",rpsL K42T,1,NA,,-0.136,0.864,0.0057,13,,,,,0.864,NA
+streptomycin,aminoglycoside,16sRNA,E. coli,negative,"CAB281, STR1, STR2",rpsL K42N,1,NA,,-0.188,0.812,0.0079,13,,,,,0.812,NA
+spectinomycin,aminoglycoside,16S,B. burgdorferi,negative,B31-A,rpsE C1186U,1,NA,BSK-H,-0.025726084,0.969685664,0.059109604,16,,,,,0.969685664,NA
+spectinomycin,aminoglycoside,16S,B. burgdorferi,negative,B31-A,rpsE A1185G,1,NA,BSK-H,-0.025726084,0.969685664,0.042097489,16,,,,,0.969685664,NA
+novobiocin,coumarin,type II topoisomerase enzymes (DNA gyrase and topo IV),S. aureus,positive,SH1000,gryB G85S,1,62.5,ISB,-0.04,0.96,0.023094011,2,,,,,0.96,62.5
+novobiocin,coumarin,type II topoisomerase enzymes (DNA gyrase and topo IV),S. aureus,positive,SH1000,gyrB R144S,1,62.5,ISB,-0.05,0.95,0.023094011,2,,,,,0.95,62.5
+coumermycin,coumarin,type II topoisomerase enzymes (DNA gyrase and topo IV),S. aureus,positive,SH1000,gyrB T173I,1,62.5,ISB,-0.04,0.96,0.023094011,2,,,,,0.96,62.5
+trimethoprim,dihydrofolate reductase inhibitor,Dihydrofolate reductase (DHFR),S. aureus,positive,SH1000,DHFR L41F,1,4,ISB,0.028853901,1.034,0.029444864,1,,,,,1.034,4
+trimethoprim,dihydrofolate reductase inhibitor,Dihydrofolate reductase (DHFR),S. aureus,positive,SH1000,DHFR F99S,1,4,ISB,0.043280851,1.051,0.009814955,1,,,,,1.051,4
+trimethoprim,dihydrofolate reductase inhibitor,Dihydrofolate reductase (DHFR),S. aureus,positive,SH1000,DHFR H150R,1,8,ISB,-0.01442695,0.983,0.019629909,1,,,,,0.983,8
+trimethoprim,dihydrofolate reductase inhibitor,Dihydrofolate reductase (DHFR),S. aureus,positive,SH1000,DHFR F99Y,1,16,ISB,0.01442695,1.017,0.029444864,1,,,,,1.017,16
+fusidic acid,fusidane,"EF-G, ribosome",S. aureus,positive,RN4220,EF-G A67T,4,1,yeast extract peptone,-0.031739651,0.962599576,0.008198849,23,,,,,0.962599576,1
+fusidic acid,fusidane,"EF-G, ribosome",S. aureus,positive,RN4220,EF-G P406L,4,250,yeast extract peptone,-0.443538564,0.477356241,0.008812137,23,,,,,0.477356241,250
+fusidic acid,fusidane,"EF-G, ribosome",S. aureus,positive,RN4220,EF-G S416F,4,1,yeast extract peptone,-0.047361381,0.944191707,0.01467699,23,,,,,0.944191707,1
+fusidic acid,fusidane,"EF-G, ribosome",S. aureus,positive,RN4220,EF-G H457Y,4,2000,yeast extract peptone,-0.308353681,0.636651376,0.031225255,23,,,,,0.636651376,2000
+clarithromycin,macrolide,23S rRNA,M. smegmatis,positive,SMR5,23S rRNA A2058G,1,2133.3333,BHI medium,-0.028853901,0.966,0.039897959,10,,,,,0.966,2133.3333
+clarithromycin,macrolide,23S rRNA,M. smegmatis,positive,SMR5,23S rRNA A2059G,1,2133.3333,BHI medium,-0.028132553,0.96685,0.065484694,10,,,,,0.96685,2133.3333
+tylosin,macrolide,23S rRNA,C. jejuni,negative,ATCC 33291,23S A2074C,1,NA,MH,-0.043280851,0.949,0.112755102,17,,,,,0.949,NA
+tylosin,macrolide,23S rRNA,C. jejuni,negative,H1,23S A2074C,1,NA,MH,-0.01442695,0.983,0.086734694,17,,,,,0.983,NA
+tylosin,macrolide,23S rRNA,C. jejuni,negative,H1,23S A2074C,1,NA,MH,-0.043280851,0.949,0.034693878,17,,,,,0.949,NA
+tylosin,macrolide,23S rRNA,C. jejuni,negative,H1,23S A2074C,1,NA,MH,-0.028853901,0.966,0.026020408,17,,,,,0.966,NA
+tylosin,macrolide,23S rRNA,C. jejuni,negative,H1,23S A2074C,1,NA,MH,-0.043280851,0.949,0.043367347,17,,,,,0.949,NA
+erythromycin,macrolide,23S rRNA,C. jejuni,negative,NCTC 11168,23S A2074C,1,512,MH,-0.17,0.83,0.04,19,,,,,0.83,512
+erythromycin,macrolide,23S rRNA,C. jejuni,negative,81-176,23S A2075G,2,256,MH,-0.18,0.82,0.048469388,20,,,,,0.82,256
+erythromycin,macrolide,23S rRNA,C. jejuni,negative,81-176,23S A2075G,2,256,MH,-0.2,0.8,0.053571429,20,,,,,0.8,256
+erythromycin,macrolide,23S rRNA,C. jejuni,negative,81-176,23S A2075G,2,256,MH,-0.16,0.84,0.035714286,20,,,,,0.84,256
+erythromycin,macrolide,23S rRNA,C. jejuni,negative,81-176,23S A2075G,2,256,MH,-0.155,0.845,0.025510204,20,,,,,0.845,256
+norfloxacin,quinolone,type II topoisomerase enzymes (DNA gyrase and topo IV),S. aureus,positive,SH1000,grlA S80F,1,8,ISB,-0.02,0.98,0.028867513,2,,,,,0.98,8
+norfloxacin,quinolone,type II topoisomerase enzymes (DNA gyrase and topo IV),S. aureus,positive,SH1000,grlA S80Y,1,8,ISB,-0.04,0.96,0.017320508,2,,,,,0.96,8
+norfloxacin,quinolone,type II topoisomerase enzymes (DNA gyrase and topo IV),S. aureus,positive,SH1000,grlA E84K,1,8,ISB,0.02,1.02,0.028867513,2,,,,,1.02,8
+norfloxacin,quinolone,type II topoisomerase enzymes (DNA gyrase and topo IV),S. aureus,positive,SH1000,grlA A116E,1,8,ISB,0.02,1.02,0.023094011,2,,,,,1.02,8
+ciprofloxacin,quinolone,quinolone-resistance determining region (QRDR) topoIV genes and DNA gyr,S. pneumoniae,positive,R6,parC S79F,2,2,Todd-Hewitt yeast broth,-0.083,0.917,0.0349,5,,,,,0.917,2
+ciprofloxacin,quinolone,quinolone-resistance determining region (QRDR) topoIV genes and DNA gyr,S. pneumoniae,positive,R6,parC S79Y,2,2,Todd-Hewitt yeast broth,0.004,1.004,0.0256,5,,,,,1.004,2
+ciprofloxacin,quinolone,quinolone-resistance determining region (QRDR) topoIV genes and DNA gyr,S. pneumoniae,positive,R6,parC D83Y,2,3,Todd-Hewitt yeast broth,0.07,1.07,0.019,5,,,,,1.07,3
+ciprofloxacin,quinolone,quinolone-resistance determining region (QRDR) topoIV genes and DNA gyr,S. pneumoniae,positive,R6,parE D435N,2,2,Todd-Hewitt yeast broth,-0.439,0.561,0.0724,5,,,,,0.561,2
+ciprofloxacin,quinolone,quinolone-resistance determining region (QRDR) topoIV genes and DNA gyr,S. pneumoniae,positive,R6,gyrA S81Y,2,2,Todd-Hewitt yeast broth,0.01,1.01,0.0281,5,,,,,1.01,2
+ciprofloxacin,quinolone,quinolone-resistance determining region (QRDR) topoIV genes and DNA gyr,S. pneumoniae,positive,R6,gyrA E85K,2,1,Todd-Hewitt yeast broth,-0.076,0.924,0.0394,5,,,,,0.924,1
+ciprofloxacin,quinolone,quinolone-resistance determining region (QRDR) topoIV genes and DNA gyr,S. pneumoniae,positive,R6,gyrA S81F,2,1,Todd-Hewitt yeast broth,-0.099,0.901,0.0431,5,,,,,0.901,1
+norfloxacin,quinolone,type II topoisomerase enzymes (DNA gyrase and topo IV),E. coli,negative,UTI isolate Nu14,gyrA S83A,1,2.659574468,urine,0.001442695,1.0017,0.0238,6,,,,,1.0017,2.659574468
+norfloxacin,quinolone,type II topoisomerase enzymes (DNA gyrase and topo IV),E. coli,negative,UTI isolate Nu14,gyrA D87Y,1,5.319148936,urine,-0.007213475,0.9915,0.0238,6,,,,,0.9915,5.319148936
+norfloxacin,quinolone,type II topoisomerase enzymes (DNA gyrase and topo IV),E. coli,negative,UTI isolate Nu15,gyrA D87G,1,10.63829787,urine,-0.001442695,0.9983,0.0238,6,,,,,0.9983,10.63829787
+norfloxacin,quinolone,type II topoisomerase enzymes (DNA gyrase and topo IV),E. coli,negative,UTI isolate Nu18,gyrB S464F,1,5.319148936,urine,0.033181986,1.0391,0.0238,6,,,,,1.0391,5.319148936
+norfloxacin,quinolone,type II topoisomerase enzymes (DNA gyrase and topo IV),E. coli,negative,UTI isolate Nu20,gyrB delta9nt,1,2.659574468,urine,0.012984255,1.0153,0.0238,6,,,,,1.0153,2.659574468
+norfloxacin,quinolone,type II topoisomerase enzymes (DNA gyrase and topo IV),E. coli,negative,UTI isolate Nu22,marR R77L,1,5.319148936,urine,-0.018755036,0.9779,0.0238,6,,,,,0.9779,5.319148936
+norfloxacin,quinolone,type II topoisomerase enzymes (DNA gyrase and topo IV),E. coli,negative,UTI isolate Nu14,marR R94H,1,4.042553191,urine,-0.004328085,0.9949,0.0238,6,,,,,0.9949,4.042553191
+norfloxacin,quinolone,type II topoisomerase enzymes (DNA gyrase and topo IV),E. coli,negative,UTI isolate Nu14,marR delta13 nt,1,2.021276596,urine,0.004328085,1.0051,0.0238,6,,,,,1.0051,2.021276596
+nalidixic acid,quinolone,DNA gyrase,E. coli,negative,K12 MG1655,gyrA D87G,1,NA,LB,-0.037,0.963,0.0075,8,,,,,0.963,NA
+nalidixic acid,quinolone,DNA gyrase,E. coli,negative,K12 MG1656,gyrA S83L,1,NA,LB,-0.033,0.967,0.006,8,,,,,0.967,NA
+nalidixic acid,quinolone,DNA gyrase,E. coli,negative,K12 MG1657,gyrA D87Y,1,NA,LB,-0.031,0.969,0.0095,8,,,,,0.969,NA
+ciprofloxacin,quinolone,"topoIV, DNA gyr",E. coli,negative,MG1655,gyrA S83L,1,23.75,LB,0.01,1.01,0.012247449,14,,,,,1.01,23.75
+ciprofloxacin,quinolone,"topoIV, DNA gyr",E. coli,negative,MG1655,gyrA D87N,1,15.625,LB,-0.01,0.99,0.011338934,14,,,,,0.99,15.625
+ciprofloxacin,quinolone,"topoIV, DNA gyr",E. coli,negative,MG1655,parC S80I,1,1,LB,-0.01,0.99,0.004472136,14,,,,,0.99,1
+ciprofloxacin,quinolone,"topoIV, DNA gyr",E. coli,negative,MG1655,marR delta,1,2,LB,-0.17,0.83,0.013416408,14,,,,,0.83,2
+ciprofloxacin,quinolone,"topoIV, DNA gyr",E. coli,negative,MG1655,acrR delta,1,2.9375,LB,-0.09,0.91,0.008944272,14,,,,,0.91,2.9375
+ciprofloxacin,quinolone,"topoIV, DNA gyr",S. pneumoniae,positive,R6,gyrA E85K,4,NA,casein hydrolysate-based medium with sucrose,-0.24,0.76,0.025,15,,,,,0.76,NA
+ciprofloxacin,quinolone,"topoIV, DNA gyr",S. pneumoniae,positive,R6,parC S79F,4,NA,casein hydrolysate-based medium with sucrose,-0.06,0.94,0.015,15,,,,,0.94,NA
+ciprofloxacin,quinolone,"topoIV, DNA gyr",S. pneumoniae,positive,R6,parC S79Y,4,NA,casein hydrolysate-based medium with sucrose,-0.03,0.97,0.005,15,,,,,0.97,NA
+ciprofloxacin,quinolone,"topoIV, DNA gyr",S. pneumoniae,positive,R6,parC D83N,4,NA,casein hydrolysate-based medium with sucrose,-0.05,0.95,0.015,15,,,,,0.95,NA
+ciprofloxacin,quinolone,"topoIV, DNA gyr",S. pneumoniae,positive,R6,parC D83Y,4,NA,casein hydrolysate-based medium with sucrose,-0.08,0.92,0.01,15,,,,,0.92,NA
+ciprofloxacin,quinolone,"topoIV, DNA gyr",S. pneumoniae,positive,clinical strain,parC S79Y,1,8,heart infusion broth,-0.15,1.15,0.1020408,22,,,,,1.15,8
+rifampicin,rifamycin,rpoB (beta-subunit of RNA pol),E. coli,negative,REL1206,rpoB I572F,4,320,DM25,0.35490298,1.4182,0.01972,21,,,,,1.4182,320
+rifampicin,rifamycin,rpoB (beta-subunit of RNA pol),E. coli,negative,REL1206,rpoB I572L,4,40,DM25,0.304408654,1.3587,0.03026,21,,,,,1.3587,40
+rifampicin,rifamycin,rpoB (beta-subunit of RNA pol),E. coli,negative,REL1206,rpoB 1572N,4,10,DM25,0.262570497,1.3094,0.03366,21,,,,,1.3094,10
+rifampicin,rifamycin,rpoB (beta-subunit of RNA pol),E. coli,negative,REL606,rpoB I572F,4,320,DM25,0.409725392,1.4828,0.06069,21,,,,,1.4828,320
+rifampicin,rifamycin,rpoB (beta-subunit of RNA pol),E. coli,negative,REL606,rpoB I572L,4,40,DM25,0.435693902,1.5134,0.06137,21,,,,,1.5134,40
+rifampicin,rifamycin,rpoB (beta-subunit of RNA pol),E. coli,negative,REL606,rpoB 1572N,4,10,DM25,0.428480427,1.5049,0.06426,21,,,,,1.5049,10
+rifampicin,rifamycin,rpoB (beta-subunit of RNA pol),E. coli,negative,K12,rpoB I572F,4,320,DM25,-0.132150866,0.84428,0.03026,21,,,,,0.84428,320
+rifampicin,rifamycin,rpoB (beta-subunit of RNA pol),E. coli,negative,K12,rpoB I572L,4,40,DM25,-0.038952766,0.9541,0.012988,21,,,,,0.9541,40
+rifampicin,rifamycin,rpoB (beta-subunit of RNA pol),M. tuberculosis,positive,CDC1551,rpoB S531L,1,NA,Middlebrook 7H9 broth,-0.129842554,0.847,0.052040816,3,,,,,0.847,NA
+rifampicin,rifamycin,rpoB (beta-subunit of RNA pol),M. tuberculosis,positive,CDC1551,rpoB H526Y,1,NA,Middlebrook 7H9 broth,-0.259685107,0.694,0.060714286,3,,,,,0.694,NA
+rifampicin,rifamycin,rpoB (beta-subunit of RNA pol),M. tuberculosis,positive,CDC1551,rpoB H526D,1,NA,Middlebrook 7H9 broth,-0.317392909,0.626,0.034693878,3,,,,,0.626,NA
+rifampicin,rifamycin,rpoB (beta-subunit of RNA pol),M. tuberculosis,positive,CDC1551,rpoB S531W,1,NA,Middlebrook 7H9 broth,-0.173123405,0.796,0.095408163,3,,,,,0.796,NA
+rifampicin,rifamycin,rpoB (beta-subunit of RNA pol),M. tuberculosis,positive,CDC1551,rpoB H526R,1,NA,Middlebrook 7H9 broth,-0.259685107,0.694,0.052040816,3,,,,,0.694,NA
+rifampicin,rifamycin,rpoB (beta-subunit of RNA pol),M. tuberculosis,positive,CDC1551,rpoB S522L,1,NA,Middlebrook 7H9 broth,-0.173123405,0.796,0.069387755,3,,,,,0.796,NA
+rifampicin,rifamycin,rpoB (beta-subunit of RNA pol),M. tuberculosis,positive,CDC1551,rpoB Q513L,1,NA,Middlebrook 7H9 broth,-0.245258157,0.711,0.026020408,3,,,,,0.711,NA
+rifampicin,rifamycin,rpoB (beta-subunit of RNA pol),M. tuberculosis,positive,CDC1551,rpoB H526P,1,NA,Middlebrook 7H9 broth,-0.230831207,0.728,0.043367347,3,,,,,0.728,NA
+rifampicin,rifamycin,rpoB (beta-subunit of RNA pol),M. tuberculosis,positive,CDC1551,rpoB R529Q,1,NA,Middlebrook 7H9 broth,-0.605931917,0.286,0.026020408,3,,,,,0.286,NA
+rifampicin,rifamycin,rpoB (beta-subunit of RNA pol),E. faecium,positive,"4 independent isolates pig intestine (38-15, 40-4, 40-8, 343-3)",rpoB H489Q,1,32,modified peptone water,-0.016,0.984,0.009389711,4,,,,,0.984,32
+rifampicin,rifamycin,rpoB (beta-subunit of RNA pol),E. faecium,positive,"4 independent isolates pig intestine (38-15, 40-4, 40-8, 343-3)",rpoB H489Y,1,64,modified peptone water,0.22,1.22,0.007756718,4,,,,,1.22,64
+rifampicin,rifamycin,rpoB (beta-subunit of RNA pol),E. faecium,positive,"4 independent isolates pig intestine (38-15, 40-4, 40-8, 343-3)",rpoB R492H,1,256,modified peptone water,-0.095,0.905,0.004898979,4,,,,,0.905,256
+rifampicin,rifamycin,rpoB (beta-subunit of RNA pol),E. faecium,positive,"5 independent isolates pig intestine (38-15, 40-4, 40-8, 343-3)",rpoB H489Y,1,64,modified peptone water,-0.027,0.973,0.004082483,4,,,,,0.973,64
+rifampicin,rifamycin,rpoB (beta-subunit of RNA pol),E. faecium,positive,"6 independent isolates pig intestine (38-15, 40-4, 40-8, 343-3)",rpoB R492H,1,256,modified peptone water,-0.095,0.905,0.001224745,4,,,,,0.905,256
+rifampicin,rifamycin,rpoB (beta-subunit of RNA pol),E. faecium,positive,"7 independent isolates pig intestine (38-15, 40-4, 40-8, 343-3)",rpoB H489Y,1,96,modified peptone water,-0.042,0.958,0.008573214,4,,,,,0.958,96
+rifampicin,rifamycin,rpoB (beta-subunit of RNA pol),E. faecium,positive,"8 independent isolates pig intestine (38-15, 40-4, 40-8, 343-3)",rpoB H489Y,1,32,modified peptone water,-0.026,0.974,0.003674235,4,,,,,0.974,32
+rifampicin,rifamycin,rpoB (beta-subunit of RNA pol),E. faecium,positive,"9 independent isolates pig intestine (38-15, 40-4, 40-8, 343-3)",rpoB H489Y,1,32,modified peptone water,-0.032,0.968,0.003674235,4,,,,,0.968,32
+rifampicin,rifamycin,rpoB (beta-subunit of RNA pol),E. faecium,positive,"4 independent isolates pig intestine (38-15, 40-4, 40-8, 343-3)",rpoB Q480H,1,64,modified peptone water,-0.029,0.971,0.001632993,4,,,,,0.971,64
+rifampicin,rifamycin,rpoB (beta-subunit of RNA pol),M. tuberculosis,positive,Harlingen,rpoB S531W ,1,128,7H9 medium,-0.29,0.71,0.09,7,,,,,0.71,128
+rifampicin,rifamycin,rpoB (beta-subunit of RNA pol),M. tuberculosis,positive,Harlingen,rpoB H526Y,1,128,7H9 medium,-0.14,0.86,0.03,7,,,,,0.86,128
+rifampicin,rifamycin,rpoB (beta-subunit of RNA pol),M. tuberculosis,positive,Harlingen,rpoB S522L,1,64,7H9 medium,-0.05,0.95,0.02,7,,,,,0.95,64
+rifampicin,rifamycin,rpoB (beta-subunit of RNA pol),E. coli,negative,K12 MG1658,rpoB D516V,1,NA,LB,-0.06,0.94,0.005,8,,,,,0.94,NA
+rifampicin,rifamycin,rpoB (beta-subunit of RNA pol),E. coli,negative,K12 MG1659,rpoB H526N,1,NA,LB,-0.014,0.986,0.0055,8,,,,,0.986,NA
+rifampicin,rifamycin,rpoB (beta-subunit of RNA pol),E. coli,negative,K12 MG1660,rpoB H526L,1,NA,LB,-0.004,0.996,0.0075,8,,,,,0.996,NA
+rifampicin,rifamycin,rpoB (beta-subunit of RNA pol),E. coli,negative,K12 MG1661,rpoB H526Y,1,NA,LB,-0.103,0.897,0.016,8,,,,,0.897,NA
+rifampicin,rifamycin,rpoB (beta-subunit of RNA pol),E. coli,negative,K12 MG1662,rpoB I572F,1,NA,LB,-0.146,0.854,0.006,8,,,,,0.854,NA
+rifampicin,rifamycin,rpoB (beta-subunit of RNA pol),E. coli,negative,K12 MG1663,rpoB D516Y,1,NA,LB,-0.064,0.936,0.02,8,,,,,0.936,NA
+rifampicin,rifamycin,rpoB (beta-subunit of RNA pol),E. coli,negative,K12 MG1664,rpoB D516N,1,NA,LB,-0.041,0.959,0.01,8,,,,,0.959,NA
+rifampicin,rifamycin,rpoB (beta-subunit of RNA pol),E. coli,negative,K12 MG1665,rpoB R529H,1,NA,LB,-0.262,0.738,0.0245,8,,,,,0.738,NA
+rifampicin,rifamycin,rpoB (beta-subunit of RNA pol),E. coli,negative,K12 MG1666,rpoB S512F,1,NA,LB,-0.065,0.935,0.0065,8,,,,,0.935,NA
+rifampicin,rifamycin,rpoB (beta-subunit of RNA pol),E. coli,negative,K12 MG1667,rpoB S531F,1,NA,LB,-0.107,0.893,0.0075,8,,,,,0.893,NA
+rifampicin,rifamycin,rpoB (beta-subunit of RNA pol),E. coli,negative,K12 MG1668,rpoB H526D,1,NA,LB,-0.096,0.904,0.006,8,,,,,0.904,NA
+rifampicin,rifamycin,rpoB (beta-subunit of RNA pol),E. coli,negative,K12 MG1655,rpoB I572L,1,16,Davis minimal media,-0.136,0.864,0.014,9,,,,,0.864,16
+rifampicin,rifamycin,rpoB (beta-subunit of RNA pol),E. coli,negative,K12 MG1655,rpoB L511Q,1,4,Davis minimal media,-0.135,0.865,0.018,9,,,,,0.865,4
+rifampicin,rifamycin,rpoB (beta-subunit of RNA pol),E. coli,negative,K12 MG1655,rpoB H526L,1,16,Davis minimal media,-0.056,0.944,0.015,9,,,,,0.944,16
+rifampicin,rifamycin,rpoB (beta-subunit of RNA pol),E. coli,negative,K12 MG1656,NA,1,16,Davis minimal media,0.046,1.046,0.014,9,,,,,1.046,16
+rifampicin,rifamycin,rpoB (beta-subunit of RNA pol),E. coli,negative,K12 MG1655,rpoB Q148L,1,32,Davis minimal media,-0.037,0.963,0.009,9,,,,,0.963,32
+rifampicin,rifamycin,rpoB (beta-subunit of RNA pol),E. coli,negative,K12 MG1655,rpoB H526Y,1,32,Davis minimal media,-0.087,0.913,0.01,9,,,,,0.913,32
+rifampicin,rifamycin,rpoB (beta-subunit of RNA pol),E. coli,negative,K12 MG1655,rpoB Q418L,1,8,Davis minimal media,-0.104,0.896,0.021,9,,,,,0.896,8
+rifampicin,rifamycin,rpoB (beta-subunit of RNA pol),E. coli,negative,K12 MG1655,rpoB P564L,1,320,Davis minimal media,-0.165,0.835,0.019,9,,,,,0.835,320
+rifampicin,rifamycin,rpoB (beta-subunit of RNA pol),E. coli,negative,K12 MG1655,rpoB D516G,1,16,Davis minimal media,0.03,1.03,0.002,9,,,,,1.03,16
+rifampicin,rifamycin,rpoB (beta-subunit of RNA pol),S. aureus,positive,various clinical isolates,rpoB H481N,3,500,LB,0,1,0.004,11,,,,,1,500
+rifampicin,rifamycin,rpoB (beta-subunit of RNA pol),S. aureus,positive,various clinical isolates,rpoB N471Y,3,500,LB,-0.12,0.88,0.012,11,,,,,0.88,500
+rifampicin,rifamycin,rpoB (beta-subunit of RNA pol),S. aureus,positive,various clinical isolates,rpoB N471Q,3,62.5,LB,-0.04,0.96,0.008,11,,,,,0.96,62.5
+rifampicin,rifamycin,rpoB (beta-subunit of RNA pol),S. aureus,positive,various clinical isolates,rpoB N471G,3,62.5,LB,-0.13,0.87,0.022,11,,,,,0.87,62.5
+rifampicin,rifamycin,rpoB (beta-subunit of RNA pol),S. aureus,positive,various clinical isolates,rpoB I527F,3,500,LB,-0.07,0.93,0.016,11,,,,,0.93,500
+rifampicin,rifamycin,rpoB (beta-subunit of RNA pol),S. aureus,positive,various clinical isolates,rpoB S464P,3,500,LB,-0.07,0.93,0.008,11,,,,,0.93,500
+rifampicin,rifamycin,rpoB (beta-subunit of RNA pol),S. aureus,positive,various clinical isolates,rpoB N474K,3,1000,LB,-0.4,0.6,0.04,11,,,,,0.6,1000
+rifampicin,rifamycin,rpoB (beta-subunit of RNA pol),S. aureus,positive,various clinical isolates,rpoB A477V,3,125,LB,-0.12,0.88,0.023,11,,,,,0.88,125
+rifampicin,rifamycin,rpoB (beta-subunit of RNA pol),S. aureus,positive,various clinical isolates,rpoB A477N,3,32000,LB,-0.09,0.91,0.013,11,,,,,0.91,32000
+rifampicin,rifamycin,rpoB (beta-subunit of RNA pol),S. aureus,positive,various clinical isolates,rpoB R484H,3,32000,LB,-0.25,0.75,0.019,11,,,,,0.75,32000
+rifampicin,rifamycin,rpoB (beta-subunit of RNA pol),S. aureus,positive,various clinical isolates,rpoB S486L,3,64000,LB,-0.14,0.86,0.011,11,,,,,0.86,64000
+rifampicin,rifamycin,rpoB (beta-subunit of RNA pol),S. aureus,positive,various clinical isolates,rpoB Q468R,3,64000,LB,-0.2,0.8,0.007,11,,,,,0.8,64000
+rifampicin,rifamycin,rpoB (beta-subunit of RNA pol),S. aureus,positive,various clinical isolates,rpoB Q468L,3,64000,LB,-0.05,0.95,0.016,11,,,,,0.95,64000
+rifampicin,rifamycin,rpoB (beta-subunit of RNA pol),S. aureus,positive,various clinical isolates,rpoB H481Y,3,64000,LB,-0.07,0.93,0.011,11,,,,,0.93,64000
+rifampicin,rifamycin,rpoB (beta-subunit of RNA pol),S. aureus,positive,8325-4,rpoB D471E,4,15.625,LB,-0.086561702,0.898,0.049074773,12,,,,,0.898,15.625
+rifampicin,rifamycin,rpoB (beta-subunit of RNA pol),S. aureus,positive,8325-4,rpoB Q137L,4,15.625,LB,-0.187550355,0.779,0.029444864,12,,,,,0.779,15.625
+rifampicin,rifamycin,rpoB (beta-subunit of RNA pol),S. aureus,positive,8325-4,rpoB Q137L,4,31.25,LB,-0.216404256,0.745,0.039259818,12,,,,,0.745,31.25
+rifampicin,rifamycin,rpoB (beta-subunit of RNA pol),S. aureus,positive,8325-4,rpoB L466S,4,31.25,LB,-0.057707802,0.932,0.039259818,12,,,,,0.932,31.25
+rifampicin,rifamycin,rpoB (beta-subunit of RNA pol),S. aureus,positive,8325-4,rpoB D471E,4,31.25,LB,-0.302965959,0.643,0.049074773,12,,,,,0.643,31.25
+rifampicin,rifamycin,rpoB (beta-subunit of RNA pol),S. aureus,positive,8325-4,rpoB Q137L,4,31.25,LB,-0.245258157,0.711,0.049074773,12,,,,,0.711,31.25
+rifampicin,rifamycin,rpoB (beta-subunit of RNA pol),S. aureus,positive,8325-4,rpoB H481N,4,250,LB,-0.288539008,0.66,0.009814955,12,,,,,0.66,250
+rifampicin,rifamycin,rpoB (beta-subunit of RNA pol),S. aureus,positive,8325-4,rpoB A477V,4,250,LB,-0.605931917,0.286,0.029444864,12,,,,,0.286,250
+rifampicin,rifamycin,rpoB (beta-subunit of RNA pol),S. aureus,positive,8325-4,rpoB A477V,4,250,LB,-0.605931917,0.286,0.029444864,12,,,,,0.286,250
+rifampicin,rifamycin,rpoB (beta-subunit of RNA pol),S. aureus,positive,8325-4,rpoB deltaL485,4,500,LB,-0.274112058,0.677,0.029444864,12,,,,,0.677,500
+rifampicin,rifamycin,rpoB (beta-subunit of RNA pol),S. aureus,positive,8325-4,rpoB D471Y,4,500,LB,-0.230831207,0.728,0.039259818,12,,,,,0.728,500
+rifampicin,rifamycin,rpoB (beta-subunit of RNA pol),S. aureus,positive,8325-4,rpoB D471Y,4,1000,LB,-0.375100711,0.558,0.039259818,12,,,,,0.558,1000
+rifampicin,rifamycin,rpoB (beta-subunit of RNA pol),S. aureus,positive,8325-4,rpoB I527F,4,2000,LB,-0.01442695,0.983,0.019629909,12,,,,,0.983,2000
+rifampicin,rifamycin,rpoB (beta-subunit of RNA pol),S. aureus,positive,8325-4,rpoB S464P,4,2000,LB,-0.418381562,0.507,0.029444864,12,,,,,0.507,2000
+rifampicin,rifamycin,rpoB (beta-subunit of RNA pol),S. aureus,positive,8325-4,rpoB L488S,4,16000,LB,-0.01442695,0.983,0.049074773,12,,,,,0.983,16000
+rifampicin,rifamycin,rpoB (beta-subunit of RNA pol),S. aureus,positive,8325-4,rpoB P519L,4,32000,LB,-0.317392909,0.626,0.029444864,12,,,,,0.626,32000
+rifampicin,rifamycin,rpoB (beta-subunit of RNA pol),S. aureus,positive,8325-4,rpoB A477D,4,64000,LB,-0.562651066,0.337,0.029444864,12,,,,,0.337,64000
+rifampicin,rifamycin,rpoB (beta-subunit of RNA pol),S. aureus,positive,8325-4,rpoB S486L,4,128000,LB,-0.519370215,0.388,0.029444864,12,,,,,0.388,128000
+rifampicin,rifamycin,rpoB (beta-subunit of RNA pol),S. aureus,positive,8325-4,rpoB S486L,4,128000,LB,-0.36067376,0.575,0.049074773,12,,,,,0.575,128000
+rifampicin,rifamycin,rpoB (beta-subunit of RNA pol),S. aureus,positive,8325-4,rpoB H481D,4,128000,LB,-0.591504967,0.303,0.019629909,12,,,,,0.303,128000
+rifampicin,rifamycin,rpoB (beta-subunit of RNA pol),S. aureus,positive,8325-4,rpoB H481Y,4,128000,LB,-0.72134752,0.15,0.019629909,12,,,,,0.15,128000
+rifampicin,rifamycin,rpoB (beta-subunit of RNA pol),S. aureus,positive,8325-4,rpoB H481Y,4,128000,LB,-0.735774471,0.133,0.029444864,12,,,,,0.133,128000
+rifampicin,rifamycin,rpoB (beta-subunit of RNA pol),M. smegmatis,positive,mc2155,rpoB S531L,1,NA,Middlebrook 7H9 broth,0,1,0.001154701,24,,,,,1,NA
+rifampicin,rifamycin,rpoB (beta-subunit of RNA pol),M. smegmatis,positive,mc2155,rpoB H526Y,1,NA,Middlebrook 7H9 broth,-0.01,1.01,0.040991869,24,,,,,1.01,NA
+rifampicin,rifamycin,rpoB (beta-subunit of RNA pol),M. smegmatis,positive,mc2155,rpoB S531W,1,NA,Middlebrook 7H9 broth,0.02,0.98,0.030022214,24,,,,,0.98,NA
+rifampicin,rifamycin,rpoB (beta-subunit of RNA pol),M. smegmatis,positive,mc2155,rpoB H526R,1,NA,Middlebrook 7H9 broth,0.05,0.95,0.02136196,24,,,,,0.95,NA
+rifampicin,rifamycin,rpoB (beta-subunit of RNA pol),M. smegmatis,positive,mc2155,rpoB H526P,1,NA,Middlebrook 7H9 broth,0.08,0.92,0.008082904,24,,,,,0.92,NA
+olfloxacin,quinolone,DNA gyrase,M. smegmatis,positive,mc2155,gyrA D94G,1,NA,Middlebrook 7H9 broth,-0.04,1.04,0.027135463,24,,,,,1.04,NA
+olfloxacin,quinolone,DNA gyrase,M. smegmatis,positive,mc2155,gyrA D94Y,1,NA,Middlebrook 7H9 broth,-0.01,1.01,0.002309401,24,,,,,1.01,NA
+olfloxacin,quinolone,DNA gyrase,M. smegmatis,positive,mc2155,gyrA D94N,1,NA,Middlebrook 7H9 broth,0.05,0.95,0.006350853,24,,,,,0.95,NA
+olfloxacin,quinolone,DNA gyrase,M. smegmatis,positive,mc2155,gyrA G88C,1,NA,Middlebrook 7H9 broth,0.2,0.8,0.029444864,24,,,,,0.8,NA
+,,,,,,,,,,,,,,,,,,0.44166667,14384920.63
+,,,,,,,,,,,,,,,,,,0.48229167,14133683.78
+,,,,,,,,,,,,,,,,,,0.55520833,13682745.83
+,,,,,,,,,,,,,,,,,,0.57916667,6113430.221
+,0.864,20,,,,,,,,,,,,,,,,0.603125,20807565.45
+,0.796,20,,,,,,,,,,,,,,,,0.64895833,27945269.02
+,0.864,100,,,,,,,,,,,,,,,,0.66979167,9263553.906
+,0.745,20,,,,,,,,,,,,,,,,0.72083333,34921923.31
+,0.83,100,,,,,,,,,,,,,,,,0.72916667,38580962.69
+,0.932,100,,,,,,,,,,,,,,,,0.73333333,12581168.83
+,0.898,100,,,,,,,,,,,,,,,,0.746875,19918573.49
+,0.881,20,,,,,,,,,,,,,,,,0.76145833,38381261.6
+,0.915,100,,,,,,,,,,,,,,,,0.88125,130404813.4
+,0.779,20,,,,,,,,,,,,,,,,0.85104167,189960832.8
+,0.762,20,,,,,,,,,,,,,,,,0.78645833,364757266.5
+,0.995,,,,,,,,,,,,,,,,,0.77083333,350011595.5
+,0.866,,,,,,,,,,,,,,,,,0.771875,442769532.1
+,0.725,,,,,,,,,,,,,,,,,0.73229167,324275922.5
+,0.82,,,,,,,,,,,,,,,,,0.72708333,179595701.9
+,0.939,,,,,,,,,,,,,,,,,0.653125,380424139.4
+,0.84105,250,,,,,,,,,,,,,,,,0.6125,440044578.4
+,0.89545,125,,,,,,,,,,,,,,,,0.70416667,380108482.8
+,0.33275,500,,,,,,,,,,,,,,,,0.71354167,446840857.6
+,0.76285,125,,,,,,,,,,,,,,,,0.74270833,457792207.8
+,0.97195,833.333,,,,,,,,,,,,,,,,0.75104167,535662749.9
+,0.90735,125,,,,,,,,,,,,,,,,0.70260417,528541151.3
+,0.2928,500,,,,,,,,,,,,,,,,0.684375,517522160.4
+,0.8657,125,,,,,,,,,,,,,,,,0.65416667,584499330
+,0.94985,833.333,,,,,,,,,,,,,,,,0.625,569837404.7
+,0.864,,,,,,,,,,,,,,,,,0.58854167,729617604.6
+,0.812,,,,,,,,,,,,,,,,,0.48020833,952922077.9
+,0.969685664,,,,,,,,,,,,,,,,,0.596875,1052386106
+,0.969685664,,,,,,,,,,,,,,,,,0.62291667,870406874.9
+,0.96,62.5,,,,,,,,,,,,,,,,0.62916667,781314419.7
+,0.95,62.5,,,,,,,,,,,,,,,,0.63645833,721900123.7
+,0.96,62.5,,,,,,,,,,,,,,,,0.65729167,792272211.9
+,1.034,4,,,,,,,,,,,,,,,,0.67291667,755069831
+,1.051,4,,,,,,,,,,,,,,,,0.67083333,855268243.7
+,0.983,8,,,,,,,,,,,,,,,,0.6765625,916457302.6
+,1.017,16,,,,,,,,,,,,,,,,0.69375,702992939.6
+,0.962599576,1,,,,,,,,,,,,,,,,0.703125,647276334.8
+,0.477356241,250,,,,,,,,,,,,,,,,0.70208333,732626004.9
+,0.944191707,1,,,,,,,,,,,,,,,,0.70520833,777133580.7
+,0.636651376,2000,,,,,,,,,,,,,,,,0.70416667,814245774.1
+,0.966,2133.3333,,,,,,,,,,,,,,,,0.7125,795641362.6
+,0.96685,2133.3333,,,,,,,,,,,,,,,,0.71875,765918109.7
+,0.949,,,,,,,,,,,,,,,,,0.71666667,810457895.3
+,0.983,,,,,,,,,,,,,,,,,0.71666667,854984796.9
+,0.949,,,,,,,,,,,,,,,,,0.734375,773242630.4
+,0.966,,,,,,,,,,,,,,,,,0.73541667,828894815.5
+,0.949,,,,,,,,,,,,,,,,,0.728125,821518759
+,0.83,512,,,,,,,,,,,,,,,,0.72083333,925459956.7
+,0.82,256,,,,,,,,,,,,,,,,0.72395833,925440630.8
+,0.8,256,,,,,,,,,,,,,,,,0.72708333,988501082.3
+,0.84,256,,,,,,,,,,,,,,,,0.74583333,1014359153
+,0.845,256,,,,,,,,,,,,,,,,0.73854167,1040378273
+,0.98,8,,,,,,,,,,,,,,,,0.728125,1096101319
+,0.96,8,,,,,,,,,,,,,,,,0.70104167,1081426510
+,1.02,8,,,,,,,,,,,,,,,,0.71041667,1066526232
+,1.02,8,,,,,,,,,,,,,,,,0.70625,1035012111
+,0.917,2,,,,,,,,,,,,,,,,0.6625,1037137961
+,1.004,2,,,,,,,,,,,,,,,,0.646875,1133709544
+,1.07,3,,,,,,,,,,,,,,,,0.62604167,1193207586
+,0.561,2,,,,,,,,,,,,,,,,0.61458333,1052276592
+,1.01,2,,,,,,,,,,,,,,,,0.59375,1230513039
+,0.924,1,,,,,,,,,,,,,,,,0.59479167,1234217172
+,0.901,1,,,,,,,,,,,,,,,,0.59479167,1341823851
+,1.0017,2.659574468,,,,,,,,,,,,,,,,0.571875,1304859823
+,0.9915,5.319148936,,,,,,,,,,,,,,,,0.63333333,1245110544
+,0.9983,10.63829787,,,,,,,,,,,,,,,,0.63541667,1293335137
+,1.0391,5.319148936,,,,,,,,,,,,,,,,0.64270833,1274737168
+,1.0153,2.659574468,,,,,,,,,,,,,,,,0.66145833,1230094310
+,0.9779,5.319148936,,,,,,,,,,,,,,,,0.66354167,1326556380
+,0.9949,4.042553191,,,,,,,,,,,,,,,,0.68854167,1434008452
+,1.0051,2.021276596,,,,,,,,,,,,,,,,0.70833333,1307726500
+,0.963,NA,,,,,,,,,,,,,,,,0.71145833,1285443723
+,0.967,NA,,,,,,,,,,,,,,,,0.7125,1363359359
+,0.969,NA,,,,,,,,,,,,,,,,0.73229167,1326131210
+,1.01,23.75,,,,,,,,,,,,,,,,0.72916667,1292755360
+,0.99,15.625,,,,,,,,,,,,,,,,0.74166667,1288967481
+,0.99,1,,,,,,,,,,,,,,,,0.759375,1210935890
+,0.83,2,,,,,,,,,,,,,,,,0.746875,698953824
+,0.91,2.9375,,,,,,,,,,,,,,,,0.75416667,698908730.2
+,0.76,,,,,,,,,,,,,,,,,0.76875,658002216
+,0.94,,,,,,,,,,,,,,,,,0.82291667,490691352.3
+,0.97,,,,,,,,,,,,,,,,,0.84479167,453450319.5
+,0.95,,,,,,,,,,,,,,,,,0.884375,390125747.3
+,0.92,,,,,,,,,,,,,,,,,0.89375,456858122
+,1.15,8,,,,,,,,,,,,,,,,0.96770833,619666048.2
+,1.4182,320,,,,,,,,,,,,,,,,0.984375,626984127
+,1.3587,40,,,,,,,,,,,,,,,,0.85104167,549886621.3
+,1.3094,10,,,,,,,,,,,,,,,,0.84479167,575899299.1
+,1.4828,320,,,,,,,,,,,,,,,,0.85104167,705730777.2
+,1.5134,40,,,,,,,,,,,,,,,,0.85729167,817009379.5
+,1.5049,10,,,,,,,,,,,,,,,,0.828125,794926303.9
+,0.84428,320,,,,,,,,,,,,,,,,0.815625,828398783.8
+,0.9541,40,,,,,,,,,,,,,,,,0.825,865446557.4
+,0.847,,,,,,,,,,,,,,,,,0.81041667,798746392.5
+,0.694,,,,,,,,,,,,,,,,,0.80416667,750547567.5
+,0.626,,,,,,,,,,,,,,,,,0.80416667,724573541.5
+,0.796,,,,,,,,,,,,,,,,,0.79166667,787730622.6
+,0.694,,,,,,,,,,,,,,,,,0.77708333,743293908.5
+,0.796,,,,,,,,,,,,,,,,,0.77916667,943652082
+,0.711,,,,,,,,,,,,,,,,,0.77604167,988198309.6
+,0.728,,,,,,,,,,,,,,,,,0.80208333,973194959.8
+,0.286,,,,,,,,,,,,,,,,,0.81041667,902642496.4
+,0.984,32,,,,,,,,,,,,,,,,0.82083333,902578076.7
+,1.22,64,,,,,,,,,,,,,,,,0.83854167,891336837.8
+,0.905,256,,,,,,,,,,,,,,,,0.83958333,913593846.6
+,0.973,64,,,,,,,,,,,,,,,,0.90416667,1109854927
+,0.905,256,,,,,,,,,,,,,,,,0.88854167,1213847660
+,0.958,96,,,,,,,,,,,,,,,,0.84583333,1210401206
+,0.974,32,,,,,,,,,,,,,,,,0.821875,1255076273
+,0.968,32,,,,,,,,,,,,,,,,0.83020833,1147418058
+,0.971,64,,,,,,,,,,,,,,,,0.82916667,1136292775
+,0.71,128,,,,,,,,,,,,,,,,0.82395833,1121482684
+,0.86,128,,,,,,,,,,,,,,,,0.79479167,1143926510
+,0.95,64,,,,,,,,,,,,,,,,0.79791667,1184723511
+,0.94,,,,,,,,,,,,,,,,,0.784375,1218202432
+,0.986,,,,,,,,,,,,,,,,,0.78125,1273880385
+,0.996,,,,,,,,,,,,,,,,,0.76354167,1337069676
+,0.897,,,,,,,,,,,,,,,,,0.74583333,1370574366
+,0.854,,,,,,,,,,,,,,,,,0.78333333,1351789579
+,0.936,,,,,,,,,,,,,,,,,0.784375,1381467739
+,0.959,,,,,,,,,,,,,,,,,0.81041667,1303384611
+,0.738,,,,,,,,,,,,,,,,,0.83020833,1355210266
+,0.935,,,,,,,,,,,,,,,,,0.83333333,1377454391
+,0.893,,,,,,,,,,,,,,,,,0.83541667,1399704958
+,0.904,,,,,,,,,,,,,,,,,0.83645833,1433093692
+,0.864,16,,,,,,,,,,,,,,,,0.83958333,1444206092
+,0.865,4,,,,,,,,,,,,,,,,0.84895833,1477543290
+,0.944,16,,,,,,,,,,,,,,,,0.871875,1477401567
+,1.046,16,,,,,,,,,,,,,,,,0.89375,1391923057
+,0.963,32,,,,,,,,,,,,,,,,0.93020833,1413961039
+,0.913,32,,,,,,,,,,,,,,,,0.93020833,1380565863
+,0.896,8,,,,,,,,,,,,,,,,0.934375,1350855494
+,0.835,320,,,,,,,,,,,,,,,,0.92708333,1569824521
+,1.03,16,,,,,,,,,,,,,,,,0.92916667,1640312564
+,1,500,,,,,,,,,,,,,,,,0.959375,1651257473
+,0.88,500,,,,,,,,,,,,,,,,0.96875,1666041796
+,0.96,62.5,,,,,,,,,,,,,,,,0.97083333,1677160637
+,0.87,62.5,,,,,,,,,,,,,,,,1,1706664863
+,0.93,500,,,,,,,,,,,,,,,,0.91458333,1629271027
+,0.93,500,,,,,,,,,,,,,,,,0.9,1562570862
+,0.6,1000,,,,,,,,,,,,,,,,0.89166667,1640544475
+,0.88,125,,,,,,,,,,,,,,,,0.884375,1718511647
+,0.91,32000,,,,,,,,,,,,,,,,0.86979167,1685206658
+,0.75,32000,,,,,,,,,,,,,,,,0.87395833,1599837662
+,0.86,64000,,,,,,,,,,,,,,,,0.87916667,1584963152
+,0.8,64000,,,,,,,,,,,,,,,,0.87916667,1622068903
+,0.95,64000,,,,,,,,,,,,,,,,0.85104167,1692743764
+,0.93,64000,,,,,,,,,,,,,,,,0.8375,1707669810
+,0.898,15.625,,,,,,,,,,,,,,,,0.85208333,1607394094
+,0.779,15.625,,,,,,,,,,,,,,,,0.83125,1603812358
+,0.745,31.25,,,,,,,,,,,,,,,,0.809375,1555710163
+,0.932,31.25,,,,,,,,,,,,,,,,0.79583333,1555793908
+,0.643,31.25,,,,,,,,,,,,,,,,0.79166667,1433370697
+,0.711,31.25,,,,,,,,,,,,,,,,0.78020833,1459415584
+,0.66,250,,,,,,,,,,,,,,,,0.77291667,1463171253
+,0.286,250,,,,,,,,,,,,,,,,0.76041667,1452116832
+,0.286,250,,,,,,,,,,,,,,,,0.74895833,1481872294
+,0.677,500,,,,,,,,,,,,,,,,0.75625,1533775253
+,0.728,500,,,,,,,,,,,,,,,,0.771875,1544810348
+,0.558,1000,,,,,,,,,,,,,,,,0.76458333,1581961194
+,0.983,2000,,,,,,,,,,,,,,,,0.7375,1622945011
+,0.507,2000,,,,,,,,,,,,,,,,0.725,1600758864
+,0.983,16000,,,,,,,,,,,,,,,,0.71770833,1556277056
+,0.626,32000,,,,,,,,,,,,,,,,0.728125,1489422284
+,0.337,64000,,,,,,,,,,,,,,,,0.73020833,1526515152
+,0.388,128000,,,,,,,,,,,,,,,,0.74375,1548694857
+,0.575,128000,,,,,,,,,,,,,,,,0.83,1000
+,0.303,128000,,,,,,,,,,,,,,,,0.95,1000
+,0.15,128000,,,,,,,,,,,,,,,,1,1000
+,0.133,128000,,,,,,,,,,,,,,,,1,2
+,1,,,,,,,,,,,,,,,,,1,0.02
+,1.01,,,,,,,,,,,,,,,,,0.85,0.05
+,0.98,,,,,,,,,,,,,,,,,0.79,1
+,0.95,,,,,,,,,,,,,,,,,0.99,0.9
+,0.92,,,,,,,,,,,,,,,,,0.9,20
+,1.04,,,,,,,,,,,,,,,,,1,20
+,1.01,,,,,,,,,,,,,,,,,,
+,0.95,,,,,,,,,,,,,,,,,,
+,0.8,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
